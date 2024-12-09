@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderRoslynBug.App", "RiderRoslynBug.App\RiderRoslynBug.App.csproj", "{68C2FF42-C3ED-46C8-A150-B4E575B450D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderRoslynBug.Generator", "RiderRoslynBug.Generator\RiderRoslynBug.Generator.csproj", "{1F5B26A6-71D9-4A72-A6B5-75A6675F4217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C2FF42-C3ED-46C8-A150-B4E575B450D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C2FF42-C3ED-46C8-A150-B4E575B450D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C2FF42-C3ED-46C8-A150-B4E575B450D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C2FF42-C3ED-46C8-A150-B4E575B450D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5B26A6-71D9-4A72-A6B5-75A6675F4217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5B26A6-71D9-4A72-A6B5-75A6675F4217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5B26A6-71D9-4A72-A6B5-75A6675F4217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5B26A6-71D9-4A72-A6B5-75A6675F4217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
